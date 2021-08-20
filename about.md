@@ -1,4 +1,4 @@
-# Abouts
+# About
 
 LoopSwap is a [Uniswap](https://uniswap.org/)-inspired automated market-maker \(AMM\) protocol implemented with smart contracts on the Terra blockchain. This enables a decentralized on-chain exchange for the various assets involved in Terra ecosystem.
 
@@ -19,6 +19,4 @@ A **trader** can exchange their token for another token through LoopSwap using t
 > Currently, Station Extension is only available for Google Chrome.
 
 First, **Loop** native tokens must be sent to the wallet address corresponding to your Loop Station Extension in order to execute swaps from the web application. Once you generate a transaction in the proper format, Station Extension will prompt you to sign the transaction by entering your password.
-
-
 

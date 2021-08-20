@@ -2,7 +2,7 @@
 
 * [👋 Intro to Loop](README.md)
 * [About](about.md)
-* [Mechanism](mechanism.md)
+* [Mechanisms](mechanism.md)
 * [Trading Fees](trading-fees.md)
 
 ## How To

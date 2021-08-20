@@ -1,4 +1,4 @@
-# Mechanism
+# Mechanisms
 
 ### Liquidity Pools <a id="liquidity-pools"></a>
 
