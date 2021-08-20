@@ -1,12 +1,4 @@
----
-description: >-
-  This site hosts guides, FAQs, and documentation produced through the joint
-  efforts of the community and the Loop team.
----
-
-# 👋 Intro to Loop
-
-## Swap <a id="swap"></a>
+# Swap
 
 Swap in LoopSwap works as same as trade in other exchanges. Price of centralized exchanges for both stock and cryptocurrency move by price bidding system, and supply & demand. These prices change in millisecond intervals, so real-time transaction is maintained in the market. But if anyone is trying to implement an exchange with the bidding-based pricing on blockchain, immediate execution of transaction becomes impossible due to block time.
 
@@ -25,7 +17,7 @@ Therefore, a different pricing approach is used in LoopSwap - algorithmic pricin
 By command line, all transactions can be executed in this way:
 
 ```text
-loopcli tx wasm execute <contract-address> <handle-msg> <coins>
+terracli tx wasm execute <contract-address> <handle-msg> <coins>
 ```
 
 * `contract-address`: In swap transaction, this should be the pair address.
@@ -68,7 +60,6 @@ Enter `contract-address`, `coins` and `handle-msg`. To learn more about the gene
         "to": "<HumanAddr>"
     }
 }
-
 ```
 
 `swap.offer_asset` represents your source asset. Please make sure that `swap.offer_asset.amount` is not same as your amount. It depends on the decimal of the token setting. In case of Luna, its decimal is 9. Then, if `swap.offer_asset.amount` reads `10`, the actual amount is `10 x 10^-9`. So, you should multiply with mathcing value, `10^(decimal)`.
