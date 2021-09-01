@@ -2,13 +2,13 @@
 
 Swap in LoopSwap works as same as trade in other exchanges. Price of centralized exchanges for both stock and cryptocurrency move by price bidding system, and supply & demand. These prices change in millisecond intervals, so real-time transaction is maintained in the market. But if anyone is trying to implement an exchange with the bidding-based pricing on blockchain, immediate execution of transaction becomes impossible due to block time.
 
-Therefore, a different pricing approach is used in LoopSwap - algorithmic pricing by tracking the ratio of the paired asset within the liquidity pool. To learn more about this approach, please refer to [mechanism section](https://docs.terraswap.io/docs/introduction/mechanism/).
+Therefore, a different pricing approach is used in LoopSwap - algorithmic pricing by tracking the ratio of the paired asset within the liquidity pool. To learn more about this approach, please refer to [mechanism section](https://app.gitbook.com/@usama-zeeyou/s/loop/~/drafts/-MiV9TLqqmMLvhM7R-9J/mechanism).
 
 ### Prerequisites <a id="prerequisites"></a>
 
 * Token & pair should be deployed
 * You should know the addresses of token & pair.
-* Increase your allowance. [Execute `IncreaseAllowance`](https://docs.terraswap.io/docs/reference/token/)
+* Increase your allowance. [Execute `IncreaseAllowance`](https://app.gitbook.com/@usama-zeeyou/s/loop/~/drafts/-MiV9TLqqmMLvhM7R-9J/message-reference/cw20-token)
 
 ### Swap by using CLI <a id="swap-by-using-cli"></a>
 
@@ -24,7 +24,7 @@ terracli tx wasm execute <contract-address> <handle-msg> <coins>
 * `handle-msg`: It represents the method and parameters of this execution. Will explain below.
 * `coins`: Fee to execute transaction
 
-Enter `contract-address`, `coins` and `handle-msg`. To learn more about the general rules for `handle-msg` please refer to this [link](https://docs.terraswap.io/docs/howto/query/).
+Enter `contract-address`, `coins` and `handle-msg`. To learn more about the general rules for `handle-msg` please refer to this [link](https://app.gitbook.com/@usama-zeeyou/s/loop/~/drafts/-MiV9TLqqmMLvhM7R-9J/how-to/query).
 
 * Source asset: native token
 

@@ -11,7 +11,7 @@ description: >-
 
 #### Create pair <a id="create-pair"></a>
 
-Instantiate pair from uploaded WASM binary. Please check [this document](https://docs.terraswap.io/docs/howto/create_your_own_pair/) in detail usage.
+Instantiate pair from uploaded WASM binary. Please check [this document](https://app.gitbook.com/@usama-zeeyou/s/loop/~/drafts/-MiV9TLqqmMLvhM7R-9J/how-to/creat-your-own-pair) in detail usage.
 
 ```text
 {

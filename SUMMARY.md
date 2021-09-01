@@ -24,7 +24,3 @@
 
 * [Contract Addresses](resources/contract-addresses.md)
 
----
-
-* [FAQ](faq.md)
-

@@ -4,7 +4,7 @@
 
 #### Provide liquidity / Withdraw <a id="provide-liquidity--withdraw"></a>
 
-As the swap ratio is stated as [here](https://docs.terraswap.io/docs/introduction/mechanism/), the size of the pool is related with the difference of swap ratio. The ratio goes stable if the size of the pool increases, and vice versa. Otherwise, LP provider needs more tokens for adjusting the price in bigger pool. It means that the market loses elastic. LP provider adjusts this market by providing & withdraw the liquidity within this trade-off.
+As the swap ratio is stated as [here](https://app.gitbook.com/@usama-zeeyou/s/loop/~/drafts/-MiV9TLqqmMLvhM7R-9J/mechanism), the size of the pool is related with the difference of swap ratio. The ratio goes stable if the size of the pool increases, and vice versa. Otherwise, LP provider needs more tokens for adjusting the price in bigger pool. It means that the market loses elastic. LP provider adjusts this market by providing & withdraw the liquidity within this trade-off.
 
  **Provide liquidity**
 
