@@ -12,7 +12,8 @@
 * [Query](how-to/query.md)
 * [Swap](how-to/swap.md)
 * [Frequently Used Messages](how-to/frequently-used-messages.md)
-* [Farming](how-to/farming.md)
+* [Farm](how-to/farming.md)
+* [Stake](how-to/stake.md)
 
 ## Message reference
 
