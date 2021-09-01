@@ -36,5 +36,13 @@ $$
 
 When a pool has large balances of tokens on both sides from liquidity providers, the spread becomes smaller and helps the pool execute closer to its reported price of Y/X.
 
+### Farm <a id="pricing"></a>
+
+LoopSwap provides different [Farm](https://app.gitbook.com/@usama-zeeyou/s/loop/how-to/farming) depending on the pairs against which we have provide liquidity. You can stake your LP tokens in the respective farm and earn some reward in the form of **LOOP**
+
+### Stake <a id="pricing"></a>
+
+LoopSwap also comes up with the facility of direct staking of the **LOOP** tokens from which you can earn the rewad in the fom of **LOOP** daily. 
+
 
 
