@@ -2,7 +2,7 @@
 
 ### Liquidity Pools <a id="liquidity-pools"></a>
 
-LoopSwap creates automated markets for pairs of tokens \(or native Loop coins like UST\) called **pools** which enable users to exchange one asset for the other directly on-chain. Pools maintain balances of both assets, to which users can provide liquidity in exchange for reward-bearing LP tokens. A more detailed explanation about LP tokens and their relationship with LoopSwap can be found in the Uniswap docs
+LoopSwap creates automated markets for pairs of tokens \(or native Loop coins like UST\) called **pools** which enable users to exchange one asset for the other directly on-chain. Pools maintain balances of both assets, to which users can provide liquidity in exchange for reward-bearing LP tokens. A more detailed explanation about LP tokens and their relationship with LoopSwap can be found in the LoopSwap docs
 
 ### Constant Product
 
@@ -42,7 +42,7 @@ LoopSwap provides different [Farm](https://app.gitbook.com/@usama-zeeyou/s/loop/
 
 ### Stake <a id="pricing"></a>
 
-LoopSwap also comes up with the facility of direct staking of the **LOOP** tokens from which you can earn the rewad in the fom of **LOOP** daily. 
+LoopSwap also comes up with the facility of direct [Staking](https://app.gitbook.com/@usama-zeeyou/s/loop/~/drafts/-MiWZwa3RQdROGa0UaTe/v/master/how-to/stake) of the **LOOP** tokens from which you can earn the rewad in the fom of **LOOP** daily. 
 
 
 
